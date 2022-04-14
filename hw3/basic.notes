@@ -1,0 +1,9 @@
+TODO:
+[√] load_and_center_dataset(filename)
+[√] get_covariance(dataset)
+[√] get_eig(S, m)
+[√] get_eig_perc(S, perc)
+[√] project_image(img, U)
+[√] display_image(orig, proj)
+
+Use for data load - x = np.load('./YaleB_32x32.npy')
